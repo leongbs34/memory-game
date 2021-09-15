@@ -1,0 +1,24 @@
+.wrapper {
+  padding: 1rem 0;
+  border-radius: 40px;
+  color: rgb(34, 32, 32);
+  width: 24%;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 0 1rem;
+  font-size: 1.4rem;
+}
+
+.green {
+  background-color: rgb(181, 255, 181);
+}
+
+.red {
+  background-color: rgb(255, 181, 181);
+}
+
+.flex {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
